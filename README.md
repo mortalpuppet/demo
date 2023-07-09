@@ -9,3 +9,5 @@ I hope this won't cause much of a rockus
 =======
 this update is trouble by definition
 >>>>>>> very-bad
+
+[this is a sample link to test](https://github.com/mortalpuppet/demo)
